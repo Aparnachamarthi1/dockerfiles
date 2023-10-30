@@ -1,0 +1,4 @@
+FROM almalinux:8
+ENV NAME=APARNA \
+    AGE=28 \
+    ADDRESS=HYDERABAD
